@@ -3,6 +3,7 @@ body{
     color: aliceblue;
     height: 100px;
     border: 10px double greenyellow;
+    padding: 20px;
 }
 h1{
     text-align: center; 
