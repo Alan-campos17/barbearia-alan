@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+h1{
+    text-align: center; 
+   background-color: rgb(102, 255, 0);
+   color: black;
+}
+em strong{
+    color: rgb(0, 255, 170);
+}
+
