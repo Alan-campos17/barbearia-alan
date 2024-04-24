@@ -2,7 +2,7 @@ body{
     background-color: black;
     color: aliceblue;
     height: 100px;
-    border: 10px greenyellow;
+    border: 10px double greenyellow;
 }
 h1{
     text-align: center; 
