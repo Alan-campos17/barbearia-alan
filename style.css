@@ -17,5 +17,7 @@ em strong{
 #banner{
     width: 100%;
     text-align: center;
-    width: 1000px;
+}
+p{
+    text-align: center;
 }
