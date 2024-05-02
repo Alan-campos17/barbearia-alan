@@ -21,4 +21,7 @@ em strong{
     width: 100%;
     text-align: center;
 }
-
+.itens{
+    font-size: italic;
+    text-align: left;
+}
