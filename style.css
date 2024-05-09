@@ -20,6 +20,7 @@ em strong{
 #banner{
     width: 40%;
     text-align: center;
+    text-align: left;
 }
 .itens{
     font-size: italic;
