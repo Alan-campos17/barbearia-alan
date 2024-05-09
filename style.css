@@ -18,9 +18,9 @@ em strong{
 }
 
 #banner{
-    width: 60%;
+    width: 100%;
     text-align: center;
-  text-align: right;
+  
 }
 .itens{
     font-size: italic;
