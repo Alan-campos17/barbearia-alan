@@ -42,3 +42,9 @@ li{
 .imagembeneficio{
     width: 50%;
 }
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    border: 3px solid black;
+}
