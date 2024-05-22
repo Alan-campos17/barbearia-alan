@@ -36,10 +36,7 @@ h2{
 li{
     text-align: center;
 }
-.beneficio{
-    background-color: rgb(4, 255, 0);
-    padding: 40px;
-}
+
 
 ul{
     display: inline-block;
@@ -53,6 +50,10 @@ ul{
 
 }
 
+.beneficio{
+    background-color: rgb(4, 255, 0);
+    padding: 20px;
+}
 .conteudo-beneficios {
     width: 640px;
     margin: 0 auto;
